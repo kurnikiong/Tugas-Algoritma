@@ -1,0 +1,8 @@
+{
+int = konversi rumus ke reamur;
+int = konversi rumus ke farenheit;
+int R = 4/9 X (Suhu f/32);
+int c = (f*/32);
+int masukan nilai kedua rumus dan hitung
+end
+}
